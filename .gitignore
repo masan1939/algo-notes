@@ -66,3 +66,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# 编译产物（无扩展名的可执行文件）
+tpl_test
+templates/_self_test
+
